@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://armagangok.github.io/betterme/sitemap.xml
+Sitemap: https://armagangok.github.io/betterme-app/sitemap.xml
